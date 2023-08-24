@@ -4,7 +4,6 @@
 (function($) {
 
   var nonMatchingCardTime = 1000;
-
   var imagesAvailable = 15;
   var settings = document.getElementById('memory--settings-icon');
   var modal = document.getElementById('memory--settings-modal');
